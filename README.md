@@ -13,7 +13,7 @@
 To install this package, run the following command in R:
 
 ```R
-devtools::install_github("meminsahin/repository")  # replace with your actual username and repository
+devtools::install_github("meminsahin/PLSRegs")  # replace with your actual username and repository
 ```
 
 ## Usage
