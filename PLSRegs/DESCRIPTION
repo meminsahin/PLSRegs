@@ -1,0 +1,13 @@
+Package: PLSRegs
+Type: Package
+Title: Implementing and predicting regression models with several PLS algorithms
+Version: 0.1.0
+Depends: R (>= 3.5.0), fds
+Author: Sude Gurer, Selay Sila Doner, Mehmet Emin Sahin
+Maintainer: <sudegurer5934@hotmail.com>  <selaydnr@gmail.com>  <m.eminsahin5334@gmail.com>
+Description: This package provides functions for fitting and predicting regression models with Partial Least Squares (PLS) algorithms. It includes different variations of the PLS algorithms, such as SIMPLS and Non-Orthogonal Scores PLS. Cross-validation for optimal component selection and prediction for new data are supported.
+License: GPL-3
+Encoding: UTF-8
+LazyLoad: yes
+Imports: stats
+ByteCompile: TRUE

@@ -1,0 +1,15 @@
+import("stats")
+import("fds")
+
+export(
+  "bidiag1_reg",
+  "bidiag2_reg",
+  "directscorespls_reg",
+  "krylovpls_reg",
+  "nonorth_scorespls_reg",
+  "plsf_reg",
+  "plspls_reg",
+  "predict_pls",
+  "simpls_reg"
+)
+
